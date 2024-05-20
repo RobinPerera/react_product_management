@@ -1,0 +1,26 @@
+.content {
+  border: 3px solid rgb(121, 120, 119);
+
+  background-color: aliceblue;
+  font-size: 20px;
+}
+.content div {
+  margin: 20px 30px;
+}
+.content div input {
+  font-size: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.content div input[type="checkbox"] {
+  width: 20px;
+  height: 25px;
+}
+.content div button {
+  font-size: 20px;
+  width: 100px;
+}
+.form-check-label {
+  margin-left: 10px;
+  line-height: 20px;
+}

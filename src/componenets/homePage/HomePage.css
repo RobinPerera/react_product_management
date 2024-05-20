@@ -1,0 +1,17 @@
+.center-div {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-center h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 90px;
+}
+Link {
+  text-decoration: none;
+}
